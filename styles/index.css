@@ -12,10 +12,15 @@
 	letter-spacing: 1px;
 }
 
+.landing ul {
+	list-style: none;
+}
+
 .Landing li {
 	letter-spacing: 1px;
 	text-decoration: none;
 	list-style-type: none;
+	list-style: none;
 	min-height: 2em;
 	font-size: 1.4em;
 }
